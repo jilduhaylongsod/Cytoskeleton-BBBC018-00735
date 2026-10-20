@@ -59,14 +59,13 @@ BBBC018 download link: https://bbbc.broadinstitute.org/BBBC018
 
 ## Plot
 
-<img width="900" height="650" alt="actin_intensity" src="https://github.com/user-attachments/assets/f072c242-e8e7-48e6-b8d7-f381986e17e1" />
+<img width="900" height="650" alt="actin_intensity" src="https://github.com/user-attachments/assets/02b4b7b9-4883-469c-b8dd-b926cfcf750b" />
 
 **Figure 10.** Bar graph showing the mean actin fluorescence intensity of five selected cells from image 00735. Cell 2 has the highest actin signal, while Cell 5 has the lowest. The graph shows differences in actin fluorescence intensity among the measured cells.
 
+<img width="900" height="650" alt="area_vs_circularity" src="https://github.com/user-attachments/assets/1b522164-75f8-4bae-b15a-e4a5a3e31deb" />
 
-<img width="900" height="650" alt="area_vs_circularity" src="https://github.com/user-attachments/assets/5f6ccce4-6cf7-41a6-9b4b-168f27f7e5ee" />
-
-**Figure 11.** Scatter plot showing the relationship between cell area and circularity for five selected cells from the Peas in a Pod phenotype, image 00735. Cell 1 has the largest area, while Cell 3 has the highest circularity. The plot shows differences in cell size and shape among the five measured cells.
+**Figure 11.** Scatter plot showing the relationship between cell area and circularity for five selected cells from the Peripheral actin phenotype, image 00735. Cell 1 has the largest area, while Cell 3 has the highest circularity. The plot shows differences in cell size and shape among the five measured cells.
 
 ## Questions and Answers
 
