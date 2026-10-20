@@ -2,7 +2,7 @@
 
 **Student ID:** 202303447
 
-**Chosen Phenotype:** Peas in a pod
+**Chosen Phenotype:** Angular cell edges
 
 **Image-field ID:** 00735
 
