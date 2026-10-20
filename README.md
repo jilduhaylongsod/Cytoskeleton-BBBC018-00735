@@ -72,7 +72,7 @@ BBBC018 download link: https://bbbc.broadinstitute.org/BBBC018
 
 **1. Which specific phenotype did you choose, and what visible features support that choice?**
 
-I chose the Peas in a Pod phenotype. The cells appear close together in clusters, with some cells touching or arranged side by side. Most cells have rounded or irregular shapes, while a few appear slightly elongated. The actin staining helps show the outlines and shapes of the cells.
+I chose the Peripheral Actin phenotype. In the actin image, some cells show visible staining around their outer edges, which may indicate peripheral actin. This pattern helps outline the cells and makes their shapes easier to observe.
 
 **2. Were your five cells mostly round or elongated? Refer to your circularity and aspect-ratio results.**
 
