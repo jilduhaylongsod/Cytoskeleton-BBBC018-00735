@@ -2,7 +2,7 @@
 
 **Student ID:** 202303447
 
-**Chosen Phenotype:** Angular cell edges
+**Chosen Phenotype:** Peripheral Actin
 
 **Image-field ID:** 00735
 
